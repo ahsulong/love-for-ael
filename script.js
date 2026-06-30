@@ -43,9 +43,9 @@ next.onclick=function(){
 }
 
 const photos=[
-"images/photo1.jpg",
-"images/photo2.jpg",
-"images/photo3.jpg"
+"1774116030429.jpg",
+"1779976408248.jpg",
+"1781284743405.jpg"
 ];
 
 let p=0;
